@@ -1,0 +1,19 @@
+<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .stylish {
+        font-family: 'Georgia', serif;
+        fill: #ff004f;
+        font-size: 110px;
+      }
+      .simple {
+        font-family: 'Poppins', sans-serif;
+        fill: black;
+        font-size: 60px;
+        font-weight: bold;
+      }
+    </style>
+  </defs>
+  <text x="5" y="80" class="stylish">P</text>
+  <text x="70" y="80" class="simple">RASHANT</text>
+</svg>
