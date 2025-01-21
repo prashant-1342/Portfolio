@@ -107,7 +107,7 @@ nav ul li a:hover::after{
   height:90%;
   width: 30%;
   margin-left: 15px;;
- background: url(images/profile.jpg);
+ background: url(profile.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
